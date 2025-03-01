@@ -1,15 +1,16 @@
 package com.product
 
 data class Product(
-    var id: Int,
+    val id: Int,
     var name: String,
-    var description: String
+    var description: String,
+    var imagePath : String?
 )
 
 
 data class ProductConstructor(
     val name: String,
-    val description: String
+    val description: String,
 )
 
 data class ProductModifier(
