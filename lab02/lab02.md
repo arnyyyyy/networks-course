@@ -62,7 +62,18 @@
 запросы и ответы со стороны сервиса для **всех** его операций.
 
 #### Демонстрация работы
-todo
+1. get products на пустом списке: ![alt text](https://github.com/arnyyyyy/networks-course/blob/master/lab02/images/1_get_empty.png)
+2. get product по несуществующему id: ![alt text](https://github.com/arnyyyyy/networks-course/blob/master/lab02/images/2_get_wrong_id.png)
+3. добавление продукта: ![alt text](https://github.com/arnyyyyy/networks-course/blob/master/lab02/images/3_post_product.png)
+   ![alt text](https://github.com/arnyyyyy/networks-course/blob/master/lab02/images/4_post_product_2.png)
+   ![alt text](https://github.com/arnyyyyy/networks-course/blob/master/lab02/images/5_post_product_3.png)
+4. получение списка продуктов:  ![alt text](https://github.com/arnyyyyy/networks-course/blob/master/lab02/images/6_2_get_products_first_part_seen.png) ![alt text](https://github.com/arnyyyyy/networks-course/blob/master/lab02/images/6_1_get_products_without_body.png)
+5. получение продукта по корректному id: ![alt text](https://github.com/arnyyyyy/networks-course/blob/master/lab02/images/7_get_product_by_id.png)
+6. частичное изменение продукта: ![alt text](https://github.com/arnyyyyy/networks-course/blob/master/lab02/images/8_put_product_partially_info.png)
+7. полное изменение продукта: ![alt text](https://github.com/arnyyyyy/networks-course/blob/master/lab02/images/9_put_product_full_info.png)
+8. проверка, что продукт изменился -- получение всех продуктов: ![alt text](https://github.com/arnyyyyy/networks-course/blob/master/lab02/images/10_get_all_products.png)
+9. удаление продукта: ![alt text](https://github.com/arnyyyyy/networks-course/blob/master/lab02/images/11_delete_product.png)
+10. проверка, что продукт удален: ![alt text](https://github.com/arnyyyyy/networks-course/blob/master/lab02/images/12_check_product_doesnt_exist.png)
 
 ### Задание В (4 балла)
 Пусть ваш продукт также имеет иконку (небольшую картинку). Формат иконки (картинки) может
