@@ -95,7 +95,12 @@
 ```
 
 #### Демонстрация работы
-todo
+1. добавление продукта и изображения: ![alt text](https://github.com/arnyyyyy/networks-course/blob/master/lab02/images/2_1_add_product_1.png) ![alt text](https://github.com/arnyyyyy/networks-course/blob/master/lab02/images/2_2_add_product_image.png)
+2. получение изображения: ![alt text](https://github.com/arnyyyyy/networks-course/blob/master/lab02/images/2_3_get_product_image.png)
+3. проверка, что проинициализировался путь изображения: ![alt text](https://github.com/arnyyyyy/networks-course/blob/master/lab02/images/2_4_check_image_path_changed.png)
+4. добавление второго продукта и его изображения: ![alt text](https://github.com/arnyyyyy/networks-course/blob/master/lab02/images/2_5_add_new_product.png) ![alt text](https://github.com/arnyyyyy/networks-course/blob/master/lab02/images/2_6_add_product_image.png)
+5. получение изображения: ![alt text](https://github.com/arnyyyyy/networks-course/blob/master/lab02/images/2_7_get_product_image.png)
+6. проверка, что у продуктов разные пути до изображений: ![alt text](https://github.com/arnyyyyy/networks-course/blob/master/lab02/images/2_8_check_product_images_paths_are_different.png)
 
 ---
 
