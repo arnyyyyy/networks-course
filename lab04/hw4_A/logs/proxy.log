@@ -1,0 +1,2 @@
+GET for https://bluefoundationofficial.com: 200 SUCCESSFUL
+WITH ERROR I/O error on GET request for "https://bluefoundationofficialDOESNOTEXIST.com": null

@@ -1,0 +1,4 @@
+WITH ERROR BLOCKED: Can not open https://123.com: access denied
+SAVED TO CACHE for https://example.com: 200 SUCCESSFUL
+GET for https://example.com: 200 SUCCESSFUL
+GET: CACHE HIT! for https://example.com: 200 SUCCESSFUL
