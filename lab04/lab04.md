@@ -32,7 +32,8 @@ _(*) Вы должны заменить стоящий здесь 8888 на но
 Приложите скрины или логи работы сервера.
 
 #### Демонстрация работы
-todo
+Если страница существует: ![alt text](https://github.com/arnyyyyy/networks-course/blob/master/lab04/images/t1EXISTS.png)
+Если страница не существует: ![alt text](https://github.com/arnyyyyy/networks-course/blob/master/lab04/images/t1DOESNOTEXIST.png)
 
 ### Б. Прокси-сервер с кешированием (4 балла)
 Когда прокси-сервер получает запрос, он проверяет, есть ли запрашиваемый объект в кэше, и,
@@ -52,7 +53,8 @@ todo
 Приложите скрины или логи, из которых понятно, что ответ на повторный запрос был взят из кэша.
 
 #### Демонстрация работы
-todo
+![alt text](https://github.com/arnyyyyy/networks-course/blob/master/lab04/images/t02NOTBLOCKED.png)
+![alt text](https://github.com/arnyyyyy/networks-course/blob/master/lab04/images/t02LOGS.png)
 
 ### В. Черный список (2 балла)
 Прокси-сервер отслеживает страницы и не пускает на те, которые попадают в черный список. Вместо
@@ -62,7 +64,7 @@ todo
 Приложите скрины или логи запроса из черного списка.
 
 #### Демонстрация работы
-todo
+Если страница заблокирована: ![alt text](https://github.com/arnyyyyy/networks-course/blob/master/lab04/images/t02BLOCKED.png)
 
 ## Wireshark. Работа с DNS
 Для каждого задания в этой секции приложите скрин с подтверждением ваших ответов.
