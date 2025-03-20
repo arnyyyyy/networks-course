@@ -14,7 +14,8 @@
 Приложите скриншоты полученных сообщений (для обоих форматов).
 
 #### Демонстрация работы
-todo
+![alt text](https://github.com/arnyyyyy/networks-course/blob/master/lab05/images/TaskA1.png)
+
 
 ### 2. SMTP-клиент (3 балла)
 Разработайте простой почтовый клиент, который отправляет текстовые сообщения
@@ -27,7 +28,8 @@ todo
 Сделайте скриншоты полученных сообщений.
 
 #### Демонстрация работы
-todo
+![alt text](https://github.com/arnyyyyy/networks-course/blob/master/lab05/images/TaskA2.png)
+
 
 ### 3. SMTP-клиент: бинарные данные (2 балла)
 Модифицируйте ваш SMTP-клиент из предыдущего задания так, чтобы теперь он мог
@@ -36,7 +38,8 @@ todo
 Сделайте скриншот, подтверждающий получение почтового сообщения с картинкой.
 
 #### Демонстрация работы
-todo
+![alt text](https://github.com/arnyyyyy/networks-course/blob/master/lab05/images/TaskA3.png)
+
 
 ---
 
@@ -117,7 +120,7 @@ todo
 #### Решение
 Время на раздачу F бит N клиентам при **клиент-серверном** подходе $\geq max(\dfrac{NF}{u_s}, \dfrac{F}{d_{min}})$
 Время на раздачу F бит N клиентам при **одноранговом** подходе $\geq max(\dfrac{F}{u_s}, \dfrac{F}{d_{min}}, \dfrac{NF}{u_s +\sum u_i})$
-
+![alt text](https://github.com/arnyyyyy/networks-course/blob/master/lab05/images/barchart.png)
 
 ### Задача 3 (3 балла)
 Рассмотрим клиент-серверную раздачу файла размером $F$ бит $N$ пирам, при которой сервер
