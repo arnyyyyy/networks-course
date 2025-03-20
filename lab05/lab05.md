@@ -120,7 +120,7 @@ todo
 #### Решение
 Время на раздачу F бит N клиентам при **клиент-серверном** подходе $\geq max(\dfrac{NF}{u_s}, \dfrac{F}{d_{min}})$
 Время на раздачу F бит N клиентам при **одноранговом** подходе $\geq max(\dfrac{F}{u_s}, \dfrac{F}{d_{min}}, \dfrac{NF}{u_s +\sum u_i})$
-![alt text](https://github.com/arnyyyyy/networks-course/blob/master/lab05/images/barchart.png)
+![alt text](https://github.com/arnyyyyy/networks-course/blob/master/lab05/images/barchart.jpeg)
 
 ### Задача 3 (3 балла)
 Рассмотрим клиент-серверную раздачу файла размером $F$ бит $N$ пирам, при которой сервер
