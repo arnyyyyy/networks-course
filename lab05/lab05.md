@@ -59,7 +59,12 @@ Paint (на стороне сервера). Или запустить консо
 сервере) отправляется обратно клиенту.
 
 #### Демонстрация работы
-todo
+##### Клиент:
+* <img src="https://github.com/arnyyyyy/networks-course/blob/master/lab05/images/client_logs.png"  width="600"/>
+##### Сервер:
+* <img src="https://github.com/arnyyyyy/networks-course/blob/master/lab05/images/server_logs.png" width="600"/>
+ping работает без остановки, поэтому сервер выключен вручную
+
 
 ### В. Широковещательная рассылка через UDP (2 балла)
 Реализуйте сервер (веб-службу) и клиента с использованием интерфейса Socket API, которая:
