@@ -34,7 +34,9 @@
 Приложите скриншоты, подтверждающие работоспособность программы.
 
 #### Демонстрация работы
-todo
+![alt text](https://github.com/arnyyyyy/networks-course/blob/master/lab08/images/taskA_logs.png)
+![alt text](https://github.com/arnyyyyy/networks-course/blob/master/lab08/images/taskA_files.png)
+
 
 ### Б. Дуплексная передача (2 балла)
 Поддержите возможность пересылки данных в обоих направлениях: как от клиента к серверу, так и
@@ -43,13 +45,18 @@ todo
 Продемонстрируйте передачу файла от сервера клиенту.
 
 #### Демонстрация работы
-todo
+![alt text](https://github.com/arnyyyyy/networks-course/blob/master/lab08/images/taskB_logs.png)
+![alt text](https://github.com/arnyyyyy/networks-course/blob/master/lab08/images/taskB_files.png)
+
 
 ### В. Контрольные суммы (1 балл)
 UDP реализует механизм контрольных сумм при передаче данных. Однако предположим, что
 этого нет. Реализуйте и интегрируйте в протокол свой способ проверки корректности данных
 на прикладном уровне (для этого вы можете использовать результаты из следующего задания
 «Контрольные суммы»).
+<br/> <br/>Реализован упрощенный вариант вычисления контрольных сумм
+![alt text](https://github.com/arnyyyyy/networks-course/blob/master/lab08/images/taskC.png)
+
 
 ## Контрольные суммы (2 балла)
 Методы, основанные на использовании контрольных сумм, обрабатывают $d$ разрядов данных как
