@@ -3,7 +3,7 @@ import java.net.ServerSocket
 import java.net.DatagramSocket
 
 object IPUtility {
-    fun getAvailablePorts( rangeStart: Int, rangeEnd: Int, ip: InetAddress): List<Int> {
+    fun getAvailablePorts(rangeStart: Int, rangeEnd: Int, ip: InetAddress): List<Int> {
         val availablePorts = mutableListOf<Int>()
 
         for (port in rangeStart..rangeEnd) {
