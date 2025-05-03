@@ -12,9 +12,7 @@ def run_client(port):
             print(f"Connected to server on port {port}.")
 
             while True:
-                message = input("Enter message (or 'exit'): ")
-                if message.lower() == 'exit':
-                    break
+                message = input("Enter message: ")
                 client_sock.sendall(message.encode())
                 data = client_sock.recv(BUFFER_SIZE)
                 print(f"Received: {data.decode()}")
