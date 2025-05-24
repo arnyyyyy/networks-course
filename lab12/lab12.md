@@ -27,7 +27,11 @@ Final state of router 198.71.243.61 table:
 Приведите скрин или лог работы программы.
 
 #### Демонстрация работы
-todo
+![alt text](https://github.com/arnyyyyy/networks-course/blob/master/lab12/images/hw12_gen_1.png)
+![alt text](https://github.com/arnyyyyy/networks-course/blob/master/lab12/images/hw12_gen_2.png)
+
+Пример с извлечением конфигурации из json:
+![alt text](https://github.com/arnyyyyy/networks-course/blob/master/lab12/images/hw12_from_file.png)
 
 ### Задание Б (1 балл)
 Выведите на консоль промежуточные этапы работы протокола: по каждому маршрутизатору
@@ -70,7 +74,7 @@ UDP, а также выводит количество потерянных па
 <img src="images/tcp.png" width=700 />
 
 #### Демонстрация работы
-todo
+![alt text](https://github.com/arnyyyyy/networks-course/blob/master/lab12/images/hw12_tcp.png)
 
 ### 2. Измерение по протоколу UDP (3 балла)
 Пример интерфейса:
@@ -78,7 +82,7 @@ todo
 <img src="images/udp.png" width=700 />
 
 #### Демонстрация работы
-todo
+![alt text](https://github.com/arnyyyyy/networks-course/blob/master/lab12/images/hw12_udp.png)
    
 
 ## Транслятор портов (6 баллов)
