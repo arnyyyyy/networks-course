@@ -35,7 +35,7 @@ class TCPReceiver(QWidget):
         ip = self.ip.text()
         port = int(self.port.text())
         packet_size = 1024
-        header_size = 4 + 8
+        header_size = 12
 
         self.cur_log.setText("Waiting for connection...")
 

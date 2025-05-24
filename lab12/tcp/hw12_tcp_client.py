@@ -34,7 +34,7 @@ class TCPSender(QWidget):
         port = int(self.port.text())
         count = int(self.num_of_packets.text())
         packet_size = 1024
-        header_size = 4 + 8
+        header_size = 12
         data_size = packet_size - header_size
 
         self.cur_log.setText(f"Connecting to {ip}:{port}...")
