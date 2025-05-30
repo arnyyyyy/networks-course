@@ -100,7 +100,8 @@ todo
 данные о вашем компьютере в этой сети. 
 
 #### Демонстрация работы
-todo
+<img src="images/img1.png" width=500 />
+
 
 ### Задание Б (2 балла)
 Создайте GUI для программы из Задания А, в котором есть progress bar, показывающий то,
@@ -112,7 +113,7 @@ todo
 <img src="images/all-computers.png" width=500 />
 
 #### Демонстрация работы
-todo
+<img src="images/img1.png" width=500 />
 
 ## Задачи
 
